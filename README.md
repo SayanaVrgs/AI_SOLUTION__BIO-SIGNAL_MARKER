@@ -1,2 +1,7 @@
 # AI_SOLUTION__BIO-SIGNAL_MARKER
 This project focuses on developing a non-invasive AI solution designed to monitor an individual’s respiratory rate from a distance via a thermal camera. This was a 2 year long thesis project undertaken in partial requirement of the MS of Computer Science program at the University of Guelph.
+
+The recent COVID-19 pandemic has highlighted the fragility of our healthcare system. Many countries around the world, including Canada, are grappling with a severe shortage of healthcare professionals. The current strain caused by the pandemic on our healthcare system has led to serious burnout and immense stress among healthcare workers. As AI technology is making rapid strides in every field, the need of the hour is to explore AI’s effective and positive implementation in alleviating at least some of this heavy load from our healthcare system. One aspect would be implementing a solution capable of remotely monitoring the vital signs of patients requiring continuous care. Such a solution must be inclusive, transcending gender, ethnicity, and skin color barriers. This thesis focuses on developing a non-invasive AI solution designed to monitor an individual’s respiratory rate from a distance via a thermal camera. This thesis document delves into the motivation behind this thesis project, the methodologies employed, the segment-wise and overall outcomes, and a discussion regarding the insight gained based on these outcomes.
+
+
+Keywords: Thermal imaging, computer vision, machine learning, bio-signal markers
